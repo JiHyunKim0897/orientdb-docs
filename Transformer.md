@@ -110,7 +110,7 @@ Component description.
   }
   ```
 
-- Asign the field a fixed value:
+- Assign the field a fixed value:
 
   ```json
   { "field": 
